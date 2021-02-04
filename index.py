@@ -23,4 +23,4 @@ while True:
     if try_again.lower() == 'n':
         break
 
-input("\пНажмите Enter для завершения работы.")
+input("\n Нажмите Enter для завершения работы.")
